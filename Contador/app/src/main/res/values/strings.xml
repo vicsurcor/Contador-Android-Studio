@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="contador">CONTADOR</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="num">0</string>
+    <string name="reset">reset</string>
+
+</resources>
